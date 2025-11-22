@@ -36,6 +36,10 @@ cat << EOF > ./web/index.html
 	<div style="background-color: ${array_colores[$div]}; color: ${array_colores[$texto]};">
 		<p>$ip</p>
 	</div>
+	<div>
+		<img src="https://fossbytes.com/wp-content/uploads/2016/10/localhost-127.0.0.1.jpg" alt="FotoIP" />
+	</div>
 </body>
 </html>
 EOF
+
