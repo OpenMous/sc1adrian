@@ -23,7 +23,7 @@ read -p "Que color quieres para el fondo? " fondo
 read -p "Qué color quieres para el cuadro de texto? " div
 read -p "Que color quieres para el texto? " texto
 ip=$(hostname -I | awk '{print $1}')
-cat << EOF > ./web/index_adrian.html
+cat << EOF > ./web/index.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
