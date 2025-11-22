@@ -1,0 +1,7 @@
+rojo:#FF0000
+naranja:#FFA500
+amarillo:#FFFF00
+verde:#008000
+cian:#00FFFF
+azul:#0000FF 
+violeta:#8B00FF1
